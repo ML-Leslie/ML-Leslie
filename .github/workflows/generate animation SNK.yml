@@ -29,9 +29,9 @@ jobs:
         with:
           github_user_name: ML-Leslie
           outputs: |
-            dist/github-snake.svg?color_snake=#ff69b4
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff69b4
-            dist/ocean.gif?color_snake=#ff69b4
+            dist/github-snake.svg?color_snake=#ff8daf
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff8daf
+            dist/ocean.gif?color_snake=#ff8daf
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.5.0
