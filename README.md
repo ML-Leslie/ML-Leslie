@@ -14,13 +14,4 @@
 
   <br /><br />
 
-  <!-- Top Languages 图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ML-Leslie&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ML-Leslie&theme=default&show_icons=true&hide_border=false&layout=compact" />
-    <img alt="ML-Leslie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ML-Leslie&show_icons=true&hide_border=false&layout=compact" />
-  </picture>
-
- <br /><br />
-
 </div>
